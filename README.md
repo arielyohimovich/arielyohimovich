@@ -1,40 +1,23 @@
 # Hi there, I'm Ariel! 👋
 
 ## 🚀 About Me
-I'm a passionate **Full Stack Developer** with a **B.Sc. in Software Engineering**.
-With a strong foundation in software development, I specialize in building scalable and efficient web applications.
+Passionate **Full Stack Developer** with a **B.Sc. in Software Engineering**. I build scalable and efficient web applications.
 
 ## 🛠 Tech Stack
-### Frontend
-- ⚛️ **React, React Native**
-- 🎨 TypeScript, JavaScript, HTML, CSS
-- ⚡ Vite, Next.js
-
-### Backend
-- 🚀 **Node.js, Express**
-- 🛢 **MongoDB, PostgreSQL**
-- 🔄 RESTful APIs, WebSockets
-
-### DevOps & Tools
-- 🐳 **Docker, Kubernetes**
-- ☁️ **AWS (EC2, S3, Lambda)**
-- 🔧 Git, CI/CD Pipelines
+- ⚛️ **React, React Native**, TypeScript, JavaScript
+- 🚀 **Node.js, Express**, MongoDB, PostgreSQL
+- 🐳 **Docker, Kubernetes**, AWS, CI/CD Pipelines
 
 ## 📌 Experience
-- 👨‍💻 Currently working as a **Full Stack Developer at LS Technologies**
-- 📚 Experience in **mentoring & teaching** programming, preparing students for tech careers
-- 🏗️ Strong background in **automation testing** using **Puppeteer & Jest**
+- 👨‍💻 **Full Stack Developer at LS Technologies**
+- 📚 Mentoring & teaching programming
+- 🏗️ Automation testing with **Puppeteer & Jest**
 
 ## 🌍 Languages
-- 🇮🇱 Hebrew
-- 🇬🇧 English
-- 🇷🇺 Russian
+🇮🇱 Hebrew | 🇬🇧 English | 🇷🇺 Russian
 
 ## 📫 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ariel-yohimovich/)
-- 🐙 [GitHub](https://github.com/arielyohimovich)
+🔗 [LinkedIn](https://www.linkedin.com/in/ariel-profile) | 🐙 [GitHub](https://github.com/ariel93)
 
 ---
 ⭐ **Always learning, always improving!** 🚀
-
-
