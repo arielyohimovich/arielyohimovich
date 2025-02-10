@@ -36,5 +36,5 @@ With a strong foundation in software development, I specialize in building scala
 
 ---
 ⭐ **Always learning, always improving!** 🚀
-```
+
 
