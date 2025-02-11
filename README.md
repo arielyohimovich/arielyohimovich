@@ -17,7 +17,7 @@ Passionate **Full Stack Developer** with a **B.Sc. in Software Engineering**. I 
 🇮🇱 Hebrew | 🇬🇧 English | 🇷🇺 Russian
 
 ## 📫 Let's Connect!
-🔗 [LinkedIn](https://www.linkedin.com/in/ariel-profile) | 🐙 [GitHub](https://github.com/ariel93)
+🔗 [LinkedIn](https://www.linkedin.com/in/ariel-yohimovich/) | 🐙 [GitHub]([https://github.com/ariel93](https://github.com/arielyohimovich))
 
 ---
 ⭐ **Always learning, always improving!** 🚀
